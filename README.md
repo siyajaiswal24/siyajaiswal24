@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siya Jaiswal</h1>
 
 <h3 align="center">
-Frontend & Full Stack Developer
+Full Stack Developer
 </h3>
 
 <p align="center">
@@ -19,10 +19,15 @@ Building modern, responsive and scalable web experiences 🚀
 # 💫 About Me
 
 - 💻 Full Stack Web Developer
-- 🌱 Currently learning advanced backend architecture
-- ⚡ Passionate about clean UI/UX & scalable applications
-- 🚀 Exploring AI integrations in modern web apps
-- 🎯 Focused on building impactful real-world products
+- ⚡ Skilled in building scalable and responsive web applications
+- 🌐 Strong understanding of REST APIs & API integrations
+- 🔥 Experienced with frontend architecture and backend workflows
+- 🎨 Passionate about clean UI/UX and modern design systems
+- 🚀 Exploring AI integrations in modern web applications
+- 🛠️ Familiar with authentication, databases, deployment & cloud services
+- 📚 Strong foundation in DSA, OOPS, DBMS & Operating Systems
+- 🌱 Currently learning advanced backend architecture & system design
+- 🎯 Focused on building impactful real-world digital products
 
 ---
 
