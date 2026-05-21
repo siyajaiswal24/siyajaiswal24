@@ -5,32 +5,31 @@ Frontend & Full Stack Developer
 </h3>
 
 <p align="center">
-Building modern, responsive and user-friendly web applications 🚀
+Building modern, responsive and scalable web experiences 🚀
 </p>
 
 <br>
 
 <p align="center">
-  <a href="https://github.com/siyajaiswal24">
-    <img src="https://komarev.com/ghpvc/?username=siyajaiswal24&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=siyajaiswal24&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
 </p>
 
 ---
 
 # 💫 About Me
 
-- 🌱 Currently learning **Advanced Full Stack Development**
-- 💻 Passionate about building modern web applications
-- 🚀 Love working on UI/UX and real-world projects
-- ✈️ Building projects like **Planora** & **TradThrift**
-- ⚡ Exploring AI integrations in web apps
+- 💻 Full Stack Web Developer
+- 🌱 Currently learning advanced backend architecture
+- ⚡ Passionate about clean UI/UX & scalable applications
+- 🚀 Exploring AI integrations in modern web apps
+- 🎯 Focused on building impactful real-world products
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="left">
+
 <a href="https://www.linkedin.com/in/siya-jaiswal">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -42,45 +41,48 @@ Building modern, responsive and user-friendly web applications 🚀
 <a href="https://siyajaiswal.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+
 </p>
 
 ---
 
 # 💻 Tech Stack
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase,tailwind,js,php,cpp,c,java,git,github,vscode,postman" />
-
+### 🚀 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,php" />
 </p>
 
----
+### 🎨 Frontend Development
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+</p>
 
-# 🚀 Featured Projects
+### ⚙️ Backend Development
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-## ✈️ Planora
-AI-powered travel planner with personalized itinerary generation, interactive maps, Firebase authentication, and PDF export functionality.
+### 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</p>
 
-### 🛠️ Tech Used
-React.js • Node.js • Express.js • Tailwind CSS • Firebase • OpenRouter API
+### 🛠️ Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render" />
+</p>
 
-🔗 Live Demo: https://travelplanora.vercel.app/
+### 📚 Core Concepts
+<p align="left">
 
----
+<img src="https://img.shields.io/badge/DSA-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OOPS-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DBMS-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Operating%20Systems-1E293B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST%20APIs-334155?style=for-the-badge"/>
 
-## 👗 TradThrift
-A modern thrift fashion marketplace where users can buy, rent, and upload outfits with smart outfit recommendations.
-
-### 🛠️ Tech Used
-React.js • Tailwind CSS • Node.js • MongoDB
-
----
-
-## 🌐 Portfolio Website
-Responsive personal portfolio showcasing projects, skills, and development journey.
-
-### 🛠️ Tech Used
-React.js • Tailwind CSS • Framer Motion
+</p>
 
 ---
 
@@ -104,8 +106,8 @@ React.js • Tailwind CSS • Framer Motion
 
 ---
 
-# ✨ Quote
+# ✨ Developer Quote
 
 <p align="center">
-“Code. Create. Improve. Repeat.”
+Code • Create • Innovate • Repeat
 </p>
