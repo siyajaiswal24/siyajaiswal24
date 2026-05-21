@@ -49,31 +49,47 @@ Building modern, responsive and scalable web experiences 🚀
 # 💻 Tech Stack
 
 ### 🚀 Languages
+
 <p>
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,php" />
 </p>
 
+---
+
 ### 🎨 Frontend Development
+
 <p>
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
 </p>
 
+---
+
 ### ⚙️ Backend Development
+
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
+---
+
 ### 🗄️ Databases
+
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
 </p>
 
+---
+
 ### 🛠️ Tools & Platforms
+
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render" />
 </p>
 
+---
+
 ### 📚 Core Concepts
+
 <p align="left">
 
 <img src="https://img.shields.io/badge/DSA-8A2BE2?style=for-the-badge"/>
@@ -90,9 +106,9 @@ Building modern, responsive and scalable web experiences 🚀
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=siyajaiswal24&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=siyajaiswal24&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siyajaiswal24&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siyajaiswal24&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 </p>
 
@@ -101,7 +117,9 @@ Building modern, responsive and scalable web experiences 🚀
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=siyajaiswal24&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=siyajaiswal24&theme=tokyonight&hide_border=true" />
+
 </p>
 
 ---
